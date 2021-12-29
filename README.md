@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @carlmcblox
-- 👀 I’m interested in Roblox game development
-- 🌱 I’m currently learning the Lua programming language
+- 👋 Hi, I’m @GhaziAltheab
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning to make games with Unity
 - 💞️ I’m looking to collaborate on Github
-- 📫 Reach me at: carlmcblox@gmail.com
+- 📫 Reach me at: ghazi.altheab@gmail.com
