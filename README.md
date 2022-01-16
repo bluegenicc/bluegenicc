@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GhaziAltheab
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning to make games with Unity
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning to make my own websites
 - 💞️ I’m looking to collaborate on Github
 - 📫 Reach me at: ghazi.altheab@gmail.com
